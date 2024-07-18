@@ -1,0 +1,4 @@
+repository "Slingshot-Game@Musti_Plays@cloud"
+  path "/"
+    br "/main"
+    co "/main"
